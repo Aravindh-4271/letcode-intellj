@@ -24,8 +24,6 @@ public class SecondFrame {
 
 //        driver.switchTo().frame(1);
 //        WebElement email = driver.findElement(By.xpath(""));
-//        email.sendKeys("aravindh123@gmail.com");
-//        driver.switchTo().defaultContent();
 
 
 
